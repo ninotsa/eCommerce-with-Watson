@@ -27,8 +27,8 @@ var personality_insights = watson.personality_insights({
 
 // define twitter helper
 var Twithelper = new Twit({
-  consumer_key: 'Your key',
-  consumer_secret: 'Your secret',
+  consumer_key: 's5TnrKACTGK4lF68gXvI8Y3RF',
+  consumer_secret: 'mA6FsWptUhJ3Jr4LZR3BQF7o2wIUxwsR8odYZZlmz1Tj0ojwEp',
   app_only_auth: true
 })
 
