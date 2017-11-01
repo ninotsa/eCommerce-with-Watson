@@ -19,8 +19,8 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 // define personality insights
 var personality_insights = watson.personality_insights({
-  username: 'Your username',
-  password: 'Your password',
+  username: '80d731cd-0b28-4f2d-8289-96646eb96d08',
+  password: 'DcM8btdbeGII',
   version_date:'2016-10-19',
   version: 'v3'
 });
